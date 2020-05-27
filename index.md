@@ -1,4 +1,4 @@
 #Jogos Web
 Atividades
 
-[Exercício HTML página 1](https://)
+[Exercício HTML página 1](https://thiago-s.github.io/)
