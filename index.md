@@ -7,4 +7,6 @@ Atividades
 
 [Exercício CSS](https://thiago-s.github.io/jogosweb/Exe1css)
 
+[Exercício CSS](https://thiago-s.github.io/jogosweb/SVG1)
+
 
