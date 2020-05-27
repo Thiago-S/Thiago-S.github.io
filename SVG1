@@ -6,7 +6,8 @@
   <circle cx="100" cy="100" r="40" fill="red" /> 
 </svg> 
  
- <a href="Exe1.html">Ir para a primeira página</a>
- <a href="Exe2.html">Ir para a segunda página</a>
+ <a href="Exe1css.html">Ir para a primeira página</a>
+ 
+ <a href="Exe2css.html">Ir para a segunda página</a>
 </body>
 </html>
